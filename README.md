@@ -1,2 +1,1 @@
-parent pro
-parent pro
+springboot-parent
