@@ -16,12 +16,12 @@
 		<repository>
 			<id>release</id>
 			<name>release resp</name>
-			<url>http://47.106.95.198:8081/nexus/content/repositories/releases/</url>
+			<url>http://mailou.com:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshot resp</name>
-			<url>http://47.106.95.198:8081/nexus/content/repositories/snapshots/</url>
+			<url>http://mailou.com:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
